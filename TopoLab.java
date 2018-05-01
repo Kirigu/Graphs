@@ -53,12 +53,12 @@ class Vertex {
 //   }
 }  // end of Vertex
 
-public class XuJoseph_Pd1_TopoLab {
+public class TopoLab {
 	
 	private String sorted;
 	ArrayList<Vertex> vertices;
 	
-	public XuJoseph_Pd1_TopoLab(ArrayList<Vertex> vert){
+	public TopoLab(ArrayList<Vertex> vert){
 		sorted = "";
 		vertices = vert;
 	}
